@@ -15,4 +15,5 @@ A multipurpose PDF query system originally intended for mortgage processing buil
 ### Prerequisites
 - Python 3.9 +
 - A Groq API Key
-
+### Installation
+pip install gradio gradio_pdf pymupdf groq numpy pandas llama-index llama-index-readers-file sentence-transformers faiss-cpu
