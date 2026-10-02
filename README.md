@@ -1,5 +1,5 @@
 # Outamation-x-Extern-Project
-A multipurpose PDF query system originally intended for mortgage processing built with Retrieval Augmented Generation. Upload a PDF, and the system processes the document which you can query via the chatbot interface to get sourced information about the document  with a hallucination checker to ensure system faithfulnees
+A multipurpose PDF query system originally intended for mortgage processing built with Retrieval Augmented Generation. Upload a PDF, and the system processes the document which you can query via the chatbot interface to get sourced information about the document  with a hallucination checker to ensure system faithfulness
 ## Tech Stack
 
 | Component | Library |
